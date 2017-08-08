@@ -10,7 +10,7 @@ locale                   : "zh-TW"
 title                    : "V生の日常　Vincent's Daily Life"
 title_separator          : "-"
 name                     : "吳旻昇(Min-Sheng Wu)"
-description              : "An amazing website."
+description              : "Welcome to my blog."
 url                      : "https://min-sheng.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Min-Sheng/Min-Sheng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vincent Wu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am Vincent."
+  bio              : "Hello, I am Vincent."
   location         : "Taiwan"
   email            : "mason840929@gmail.com"
   uri              :
@@ -90,15 +90,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://facebook.com/vincent.wu.526"
+  facebook         : "vincent.wu.526"
   foursquare       :
-  github           : "https://github.com/Min-Sheng"
+  github           : "Min-Sheng"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/min-sheng-wu"
+  linkedin         : "min-sheng-wu"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
