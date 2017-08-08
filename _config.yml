@@ -67,7 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.facebook.com/vincent.wu.526"
+    - "https://facebook.com/vincent.wu.526"
     - "https://www.linkedin.com/in/min-sheng-wu"
     - "https://github.com/Min-Sheng"
 
@@ -90,7 +90,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/vincent.wu.526"
+  facebook         : "https://facebook.com/vincent.wu.526"
   foursquare       :
   github           : "https://github.com/Min-Sheng"
   gitlab           :
