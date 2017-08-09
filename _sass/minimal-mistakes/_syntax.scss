@@ -60,6 +60,10 @@ figure.highlight {
 
 .highlight pre { width: 100%; }
 
+.highlight {
+        max-height: 300px;
+        overflow-y: scroll;
+}
 /*
    Solarized Light
    http://ethanschoonover.com/solarized
