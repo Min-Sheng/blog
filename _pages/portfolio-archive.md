@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Portfolio"
-permalink: /
-author_profile: false
+permalink: /portfolio/
+author_profile: true
 ---
 
 <div class="grid__wrapper">
