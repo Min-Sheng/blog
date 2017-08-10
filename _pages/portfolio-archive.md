@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Portfolio"
 permalink: /portfolio-archive/
+title: "Portfolio"
 author_profile: true
 ---
 <section class="archive-post-list">
