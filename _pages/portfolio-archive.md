@@ -4,8 +4,7 @@ permalink: /portfolio-archive/
 title: "Portfolio"
 author_profile: true
 ---
-<section class="archive-post-list">
-  <div class="grid__wrapper">
+<div class="grid__wrapper">
   {% for post in site.post %}
     {% include archive-single.html type="grid" %}
     {% assign currentDate = post.date | date: "%Y" %}
@@ -18,5 +17,5 @@ author_profile: true
      <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
      {% if forloop.last %}</ul>{% endif %}
   {% endfor %}
-  </div>
-</section>
+</div>
+
