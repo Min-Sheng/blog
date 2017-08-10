@@ -4,10 +4,10 @@ main:
      url: /year-archive/
    - title: "Categories"
      url: /categories/
-   - title: "Works"
-     url: /works/   
-   - title: "About"
-     url: /about/
+   - title: "Projects"
+     url: /projects/   
+   - title: "About Me"
+     url: /about-me/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
