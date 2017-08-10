@@ -7,9 +7,9 @@
 {% endif %}
 
 {% if words < words_per_minute %}
-  take{{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute to read" }}
+  {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute to read" }}
 {% elsif words == words_per_minute %}
-  take 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute to read" }}
+  1 {{ site.data.ui-text[site.locale].minute_read | default: "minute to read" }}
 {% else %}
-  take {{ words | divided_by:words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minutes to read" }}
+  {{ words | divided_by:words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minutes to read" }}
 {% endif %}
