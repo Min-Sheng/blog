@@ -2,8 +2,8 @@
 title: Start to Being a Blogger
 date: 2017-8-9 16:29:00
 header:
-  image: /assets/images/album/漁光橋1.JPG
-  teaser: /assets/images/album/漁光橋1.JPG
+  image: https://4.bp.blogspot.com/-1ZHYLOcBCU4/WZOl4mG995I/AAAAAAAADCY/5ZimRJuujp4g9LUk7S0LXNKLkWpRvnnnwCKgBGAs/s1600/DSC_0287.JPG
+  teaser: https://4.bp.blogspot.com/-1ZHYLOcBCU4/WZOl4mG995I/AAAAAAAADCY/5ZimRJuujp4g9LUk7S0LXNKLkWpRvnnnwCKgBGAs/s1600/DSC_0287.JPG
 comments: true
 ---
 
