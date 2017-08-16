@@ -2,6 +2,7 @@
 title: "About Me"
 layout: archive
 permalink: /about-me/
+author_profile: true
 ---
 
 Hello, I'm Vincent Wu.
