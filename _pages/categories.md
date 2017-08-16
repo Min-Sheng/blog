@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Categories
+layout: archive
 permalink: /categories/
 ---
 
