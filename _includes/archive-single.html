@@ -9,7 +9,7 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-
+{% if forloop.last %}{% endif %}
 {% assign currentDate = post.date | date: "%Y" %}
 {% if currentDate != myDate %}
    {% unless forloop.first %}</ul>{% endunless %}
