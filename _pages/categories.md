@@ -32,6 +32,11 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 		{% endunless %}
 	{% endif %}
 {% endfor %}
+
+{% comment%}
+Here we generate all the categories.
+{% endcomment%}
+
 {% assign rawcats = "" %}
 {% for post in site.posts %}
 {% assign tcats = post.category | join:'|' | append:'|' %}
