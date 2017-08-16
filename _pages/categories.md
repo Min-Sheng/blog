@@ -32,17 +32,6 @@ Here we generate all the categories.
 {% endif %}
 {% endfor %}
 
-{% comment%}
-<h1 class="page-title">
-  <a href="/">Blog</a> | {{ page.title }}
-</h1>
-<br/>
-{% endcomment%}
-
-<h1 class="page-title">
-  {{ page.title }}
-</h1>
-
 <div class="posts">
 <p>
 {% for ct in cats %}
