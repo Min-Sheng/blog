@@ -9,7 +9,7 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-{% if forloop.last %}{% endif %}
+
 {% assign currentDate = post.date | date: "%Y" %}
 {% if currentDate != myDate %}
    {% unless forloop.first %}</ul>{% endunless %}
@@ -17,6 +17,7 @@
    <ul>
    {% assign myDate = currentDate %}
 {% endif %}
+{% if forloop.last %}{% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
