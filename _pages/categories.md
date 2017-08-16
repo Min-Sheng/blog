@@ -1,6 +1,7 @@
 ---
 layout: default
-title: categories
+title: Categories
+permalink: /categories/
 ---
 
 {% comment %}
