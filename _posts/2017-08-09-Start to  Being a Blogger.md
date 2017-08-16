@@ -12,6 +12,8 @@ tags: [essay]
 
 僕のブログをやっと作ってきました、これから生活の色々話を記録する、皆さんよろしくね～
 
-本網站是以github webpage結合Jeykyll打造的靜態網站，如果有人對此有興趣，歡迎留言討論，未來有機會我也來寫一篇教學文吧！
+***本網站是以github webpage結合Jeykyll打造的靜態網頁，若您對此有興趣，歡迎留言討論，未來有機會我也來寫一篇教學文吧！***
+
+***This blog is built by github webpage combined with Jeykyll, which belongs to static web page. If you have interest on it, please comment below to discuss with me. And if I have leisure time, I would like to write a teaching article!***
 
 Photo at: 漁光橋 2017/8/6
