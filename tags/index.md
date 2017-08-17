@@ -1,7 +1,6 @@
-
 ---
-layout: page
 title: Tags
+layout: archive
 comments: false
 ---
  
