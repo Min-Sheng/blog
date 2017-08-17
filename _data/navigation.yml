@@ -10,6 +10,8 @@ main:
      url: /projects/   
    - title: "About Me"
      url: /about-me/
+  # - title: "Resume"
+  #   url: https://rhadow.github.io/resume/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
