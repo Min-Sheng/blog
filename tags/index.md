@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Tags
 comments: false
 author_profile: true
