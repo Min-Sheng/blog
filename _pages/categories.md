@@ -48,7 +48,7 @@ Here we generate all the categories.
   <li>
     <h3>
       <a href="{{ post.url }}">
-        {{ post.title }}<small><u>{{ post.date | date_to_string }}</u></small>
+        {{ post.title }}  <small><u>{{ post.date | date_to_string }}</u></small>
       </a>
     </h3>
   </li>
@@ -64,7 +64,7 @@ Here we generate all the categories.
   <li>
     <h3>
       <a href="{{ post.url }}">
-        {{ post.title }}<small><u>{{ post.date | date_to_string }}</u></small>
+        {{ post.title }}  <small><u>{{ post.date | date_to_string }}</u></small>
       </a>
     </h3>
   </li>
