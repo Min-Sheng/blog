@@ -14,8 +14,8 @@ tags: [essay]
 
 我的部落格終於製作完工啦，從今爾後將在此紀錄生活周遭的大小事，大家請多指教哦~
 
-***本網站是以github webpage結合Jeykyll打造的靜態網頁，若您對此有興趣，歡迎留言討論，未來有機會我也來寫一篇教學文吧！***
+***本網站是以github webpage結合Jekyll打造的靜態網頁，若您對此有興趣，歡迎留言討論，未來有機會我也來寫一篇教學文吧！***
 
-***This blog is built by github webpage combined with Jeykyll, which belongs to static web page. If you have interest on it, please comment below to discuss with me. And if I have leisure time, I would like to write a teaching article!***
+***This blog is built by github webpage combined with Jekyll, which belongs to static web page. If you have interest on it, please comment below to discuss with me. And if I have leisure time, I would like to write a teaching article!***
 
 Photo at: 漁光橋 2017/8/6
