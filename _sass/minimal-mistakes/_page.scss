@@ -425,34 +425,50 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
 /*****************************************************************************/
 /*
 /* Tags
 /*
 /*****************************************************************************/
 
-/* Colors 
- * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
- */
-/* Layout */
-/* Font stack */
 .tag-box {
-  display: inline-block;
-  background: rgba(106, 159, 181, 0.15);
-  padding: 0 .5rem;
-  margin-right: .5rem;
+  list-style: none;
+  margin: 0;
+  padding: 4px 0;
+  overflow: hidden;
+  *zoom: 1;
+}
+
+.tag-box:before, .tag-box:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+
+.tag-box:after {
+  clear: both;
+}
+
+.tag-box.inline li {
+  float: left;
+  font-size: 14px;
+  font-size: 0.875rem;
+  line-height: 2.5;
+}
+
+.tag-box a {
+  padding: 4px 6px;
+  margin: 2px;
+  background-color: #e6e6e6;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
   border-radius: 4px;
-  color: #6a9fb5;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 90%;
-}
-.tag-box:before {
-  content: "\f02b";
-  font-family: FontAwesome;
-  padding-right: .5em;
-}
-.tag-box:hover {
   text-decoration: none;
-  background: #6a9fb5;
-  color: #fff;
+}
+
+.tag-box a span {
+  vertical-align: super;
+  font-size: 10px;
+  font-size: 0.625rem;
 }
