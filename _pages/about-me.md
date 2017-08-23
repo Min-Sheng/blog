@@ -4,7 +4,7 @@ layout: archive
 permalink: /about-me/
 author_profile: true
 ---
-
+<br>
 Hello！我是吳旻昇，我是一個積極樂觀、富創造力、熱愛探索新知的人，
 
 平常的嗜好就是自己動手做一些很酷的東西，「Do it yourself, do it cool」是我的座右銘，
