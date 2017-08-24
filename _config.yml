@@ -71,6 +71,7 @@ social:
     - "https://facebook.com/vincent.wu.929"
     - "https://www.linkedin.com/in/min-sheng-wu"
     - "https://github.com/Min-Sheng"
+    - "https://www.youtube.com/channel/UC61EvnxCFeCu3YG4G1dbHFA"
 
 # Analytics
 analytics:
@@ -109,7 +110,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UC61EvnxCFeCu3YG4G1dbHFA"
 
 
 # Reading Files
