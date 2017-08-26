@@ -250,3 +250,11 @@ defaults:
       comments:  true
       share: true
       related: true
+  # _current_projects
+  - scope:
+      path: ""
+      type: current_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
