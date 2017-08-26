@@ -5,7 +5,7 @@ title: "Projects"
 author_profile: true
 ---
 <div class="grid__wrapper">
-  {% for post in site.projects %}
-    {% include archive-single.html type="grid" %}
+  {% for project in site.projects %}
+    {% include project-single.html type="grid" %}
   {% endfor %}
 </div>
