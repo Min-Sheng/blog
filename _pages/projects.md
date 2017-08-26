@@ -6,6 +6,6 @@ author_profile: true
 ---
 <div class="grid__wrapper">
   {% for post in site.current_projects %}
-    {% include archive-single.html %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
