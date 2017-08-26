@@ -30,6 +30,5 @@
         <a href="{{ project.url | absolute_url }}" rel="permalink">{{title}}</a>
       {% endif %}
     </h2>
-    {% if project.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ project.excerpt | markdownify | strip_html | truncate: 58 }}</p>{% endif %}
   </article>
 </div>
