@@ -1,5 +1,5 @@
 ---
-title: Hand-Motion-Capturer
+title: Hand Motion Capturer
 excerpt: ""
 header:
   image: 
