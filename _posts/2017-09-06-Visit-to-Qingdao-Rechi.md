@@ -2,8 +2,8 @@
 title: 瑞智青島精密公司實習心得與參訪反思
 date: 2017-9-6 15:36:00
 header:
-  image: https://1.bp.blogspot.com/-wu1N3R7gpOg/Wa-oh-ipv7I/AAAAAAAAENg/q7ez87Vjkl8bC-C21gGrSQD90fWOGGV4gCKgBGAs/s320/DSC_0659.JPG
-  teaser: https://1.bp.blogspot.com/-FTDmFfhCHcU/Wa-pI2H2GoI/AAAAAAAAENo/01PaaZD9zKkTpDGp8w5k-aVIV4DT_aPcQCKgBGAs/s320/mmexport1504448488538.jpg
+  image: https://1.bp.blogspot.com/-F0KOocSxpqc/Wa-0qfFvKrI/AAAAAAAAER0/t72jWIwsskkP77GpjMelDNMtbICDAVQrwCKgBGAs/s1600/DSC_0659.JPG
+  teaser: https://1.bp.blogspot.com/-Gg4q_Nt5I3g/Wa-1AX12CRI/AAAAAAAAER4/QfuGcjauwIAcIBOPzqnpFlVtPXGHyxWBgCKgBGAs/s1600/mmexport1504448488538.jpg
 comments: true
 keywords: 
   - 'travels'
@@ -19,7 +19,7 @@ tags: [travels]
 我將分別對於旅行遊歷、實習收穫以及觀察中國後的反思台灣這三項記述我的心得。
 
 <figure>
-    <img src="https://3.bp.blogspot.com/-cvr-jm0u_Dg/Wa-ph4OfT2I/AAAAAAAAENs/gVNxzXiyLlUALiHWslaQoQXC-oaTt2OsACKgBGAs/s320/mmexport1504448503855.jpg" height="25%" width="25%">
+    <img src="https://3.bp.blogspot.com/-5dp0k0WGAE0/Wa-1OQTYLlI/AAAAAAAAER8/4bHc2A8Z9OY4NLtaqr9Qqrm9uD_w61QkgCKgBGAs/s1600/mmexport1504448503855.jpg" height="25%" width="25%">
 </figure>
 
 >旅行遊歷
@@ -34,12 +34,12 @@ tags: [travels]
 瑞智的幹部們極盡地主之誼招待我們，一個晚上的餐敘，閒聊中伴著涼風、海鮮、生啤酒，讓我對於原本陌生的山東有了全新的認識。
 
 <figure>
-    <img src="https://3.bp.blogspot.com/-twUt0f51AkI/Wa-p4k2OchI/AAAAAAAAENw/ifNCo_K8RFwGU6ThNNwjq-1aygjmZLlNgCKgBGAs/s320/DSC_0397-EFFECTS.jpg" height="25%" width="25%">
+    <img src="https://1.bp.blogspot.com/-agr9TQumiUo/Wa-1Z-CSE2I/AAAAAAAAESA/HCejXO1QUoMismga-S8FDjr3qQIBr6tnACKgBGAs/s1600/DSC_0397-EFFECTS.jpg" height="25%" width="25%">
 </figure>
 <figure class="third">
-    <img src="https://1.bp.blogspot.com/-oSmKJO4_yi0/Wa-qXtUXy9I/AAAAAAAAEOM/VUBTt9-MqSofYjelyqIfs5NjUs-bdDnMwCKgBGAs/s320/DSC_0403.JPG" height="25%" width="25%">
-    <img src="https://2.bp.blogspot.com/-BuUzsTeDOE0/Wa-qXqE4j6I/AAAAAAAAEOM/u-IRj2AKhhgiEzJ9AQGxFxnyDrr0tkllwCKgBGAs/s320/DSC_0410.JPG" height="25%" width="25%">
-    <img src="https://2.bp.blogspot.com/-TNKZzdl7CCo/Wa-qXlpa1jI/AAAAAAAAEOM/aJG0WMX5iVEhB4M7VLvaHr4wJ4k87l9AACKgBGAs/s320/DSC_0416.JPG" height="25%" width="25%">
+    <img src="https://4.bp.blogspot.com/-HK83WCpbQJk/Wa-1Z_9I1iI/AAAAAAAAESA/H3ClR7fR2AA_C-BHSWt-9zissEcgTvu8QCKgBGAs/s1600/DSC_0403.JPG" height="25%" width="25%">
+    <img src="https://4.bp.blogspot.com/-q5Jd3a9VerQ/Wa-1Z-s8pZI/AAAAAAAAESA/NJwjpxTQFx0wop6L-FI6oq1abPi_KH8RwCKgBGAs/s1600/DSC_0410.JPG" height="25%" width="25%">
+    <img src="https://2.bp.blogspot.com/-zNzkYBpd98A/Wa-1Z3KR5eI/AAAAAAAAESA/rSiFZTTpF5QJegEY1M4KXSq9dBsdyzfnQCKgBGAs/s1600/DSC_0416.JPG" height="25%" width="25%">
 </figure>
 
 在往後幾天的實習中，公司也安排空檔讓我們遊歷山東的風景與歷史，山東三面環山，東臨大海，以「山環水抱」來形容最為貼切，
@@ -51,22 +51,22 @@ tags: [travels]
 據說到了炎炎夏日遊人如織，密密麻麻的全往水裡泡，有一種有趣的說法說是像「煮水餃」一般。
 
 <figure class="third">
-    <img src="https://2.bp.blogspot.com/-Wx7UMTeiI2U/Wa-rg4PphXI/AAAAAAAAEOw/xq4Rksu2GEUBP146Zem6OtNvijbtEFq2ACKgBGAs/s320/DSC_0539.JPG" height="25%" width="25%">
-    <img src="https://4.bp.blogspot.com/-abDBfvcmiSA/Wa-rg-AfU8I/AAAAAAAAEOw/sLkj2y9n64Q4XHX1GfhZONY-sfNgNve4wCKgBGAs/s320/DSC_0540.JPG" height="25%" width="25%">
-    <img src="https://2.bp.blogspot.com/-MS7oFyt3jPY/Wa-rg-znDvI/AAAAAAAAEOw/UHo1lofEPh8C09GXqZi0aXt4nRHxpBtCgCKgBGAs/s320/DSC_0560.JPG" height="25%" width="25%">
+    <img src="https://4.bp.blogspot.com/-U77Hcft9Dns/Wa-14Wt6HoI/AAAAAAAAESE/Lz1IzXQxhjQ0hmhi7IbSwpwHntDxS1r-QCKgBGAs/s1600/DSC_0539.JPG" height="25%" width="25%">
+    <img src="https://2.bp.blogspot.com/-jxsIQhiyCpg/Wa-14eLrooI/AAAAAAAAESE/WPxACJEDpUwoea_hZFxntUY8-ii8Jux4wCKgBGAs/s1600/DSC_0540.JPG" height="25%" width="25%">
+    <img src="https://4.bp.blogspot.com/-jAbRDyhPlpQ/Wa-14cHPNgI/AAAAAAAAESE/8tlDBslLs2EGT952OoqHl9OrQ4qaks7dwCKgBGAs/s1600/DSC_0560.JPG" height="25%" width="25%">
 </figure>
 <figure class="half">
-    <img src="https://1.bp.blogspot.com/-_OOnW0dOp1o/Wa-t05w5TNI/AAAAAAAAEPo/gyjXlE6K1LcnbqllI44CgHcpltZeMV-dwCKgBGAs/s320/fu%2B%2B%252827%2529.jpg" height="25%" width="25%">
-    <img src="https://3.bp.blogspot.com/-TedGx0Qe494/Wa-t0zb-xWI/AAAAAAAAEPo/ulGPUOqZt1AcX8Dyy0zjhkO4MF_etK8VQCKgBGAs/s320/fu%2B%2B%252828%2529.jpg" height="25%" width="25%">
+    <img src="https://1.bp.blogspot.com/-nH9g7-QqN1c/Wa-2W1UVzvI/AAAAAAAAESM/vzVIoN9xoI0kudUJy6jQ2ExqvCyoFjSXQCKgBGAs/s1600/fu%2B%2B%252827%2529.jpg" height="25%" width="25%">
+    <img src="https://2.bp.blogspot.com/-VVhlSoK1Yv0/Wa-2W410RgI/AAAAAAAAESM/tO30NQ6D_9kGlih0Rz87yixQdPQXlhOIACKgBGAs/s1600/fu%2B%2B%252828%2529.jpg" height="25%" width="25%">
 </figure>
 <figure class="third">
-    <img src="https://2.bp.blogspot.com/-61QzSY6rnlE/Wa-uZi8sVPI/AAAAAAAAEPw/Txw1YW08RF0IqnizpKdZiQerFYivcJ66gCKgBGAs/s320/DSC_0591.JPG" height="25%" width="25%">
-    <img src="https://2.bp.blogspot.com/-eJ1k7nCXP_A/Wa-vPHlbfyI/AAAAAAAAEP4/KrgJT-9NVJAw2o7V62JRjGe4aanK9kUugCKgBGAs/s320/DSC_0621.JPG" height="25%" width="25%">
-    <img src="https://2.bp.blogspot.com/-87q-XqvHgFE/Wa-uZqgMCMI/AAAAAAAAEPw/f3YX2sabmf4BSw-LxYnBjZheDXZJJDcWQCKgBGAs/s320/mmexport1504448472698.jpg" height="25%" width="25%">
+    <img src="https://1.bp.blogspot.com/-mYrfgnrP9c4/Wa-2zuZkWSI/AAAAAAAAESY/gDR7Dg2-duMCVe3TihyJxU7mq6_Nrr-ZwCKgBGAs/s1600/DSC_0591.JPG" height="25%" width="25%">
+    <img src="https://1.bp.blogspot.com/--EDz7sfBg0g/Wa-2zsta8YI/AAAAAAAAESY/tw6QIsG1auQDqscu5NZ2wNOSnyQ_bWMAwCKgBGAs/s1600/DSC_0621.JPG" height="25%" width="25%">
+    <img src="https://2.bp.blogspot.com/-daaKHd4HyPQ/Wa-2zp5OrqI/AAAAAAAAESY/xZI9NFouAZUHler0c1ctixYmb0S78SJGgCKgBGAs/s1600/mmexport1504448472698.jpg" height="25%" width="25%">
 </figure>
 <figure class="half">
-    <img src="https://4.bp.blogspot.com/-lAAZkIx2G3I/Wa-tMvEIaaI/AAAAAAAAEPg/ML5FuvK1ui8QMGqf5ZaM0qr53czTA0voQCKgBGAs/s320/DSC_0449.JPG" height="25%" width="25%">
-    <img src="https://3.bp.blogspot.com/-a1VfTYtbKLU/Wa-tMjKdxeI/AAAAAAAAEPg/BMcV6uQvjhcKXLGEjLIyaGvpcWiVoA7KgCKgBGAs/s320/DSC_0454.JPG" height="25%" width="25%">
+    <img src="https://3.bp.blogspot.com/-_ZESc9eQCuM/Wa-3LaJ73eI/AAAAAAAAESc/A6w_TM4a6hYQ1HGkOsnbzCQVR3YMXqYxQCKgBGAs/s1600/DSC_0449.JPG" height="25%" width="25%">
+    <img src="https://2.bp.blogspot.com/-UeCN10mTabI/Wa-3LWqmIuI/AAAAAAAAESc/DmPyITyY9psDn0yf7oVhp-cvbHPu5CEFwCKgBGAs/s1600/DSC_0454.JPG" height="25%" width="25%">
 </figure>
 
 >實習收穫
@@ -79,9 +79,9 @@ tags: [travels]
 雖然旗下沒有空調廠，但是瑞智化劣勢為優勢，正因為只專攻壓縮機，所以吸引很多的空調廠合作，當旺季供不應求時，能夠優先供給合作夥伴成為瑞智最大的優勢！
 
 <figure class="third">
-    <img src="https://3.bp.blogspot.com/-EHtKKGdsae8/Wa-wDRmCtuI/AAAAAAAAEQo/8fVIsURXApIlLPaEy-CWZRGtime7HZ8OwCKgBGAs/s320/DSC_0418.JPG" height="25%" width="25%">
-    <img src="https://3.bp.blogspot.com/-AHPvv-twCMU/Wa-wDbYhA_I/AAAAAAAAEQo/xMR7DS9inOw0XRZwwXkD-AiGhI3kzotswCKgBGAs/s320/DSC_0419.JPG" height="25%" width="25%">
-    <img src="https://2.bp.blogspot.com/-vhMW4YurG5Y/Wa-wDWdUnZI/AAAAAAAAEQo/_g-7HuAEAx83Kl1zCj_NNXDVrC6IpMsUQCKgBGAs/s320/DSC_0420.JPG" height="25%" width="25%">
+    <img src="https://2.bp.blogspot.com/-IQE1F-sMGc8/Wa-3VtuRUiI/AAAAAAAAESg/6yyst_fgm-I9ZfLddT8jPJdzTuxRqGLzQCKgBGAs/s1600/DSC_0418.JPG" height="25%" width="25%">
+    <img src="https://4.bp.blogspot.com/-iznjS7lfRGw/Wa-3VswUabI/AAAAAAAAESg/PyHf3xGI4dQBWuNY3JLE7E9bIlgD3ZbnwCKgBGAs/s1600/DSC_0419.JPG" height="25%" width="25%">
+    <img src="https://2.bp.blogspot.com/-orsQu6yaWNo/Wa-3VlpIOyI/AAAAAAAAESg/_DMcnCXAwWwfBxTHh52KyXTv9DviH1gggCKgBGAs/s1600/DSC_0420.JPG" height="25%" width="25%">
 </figure>
 
 整個實習過程像是見證壓縮機從研發、設計、測試、分析、加工、組裝到出產的過程，不但趁機複習在大學所學，也額外知道許多實際製造上的眉角，
@@ -92,16 +92,16 @@ tags: [travels]
 另外導角也是一大學問，若太大會出現毛邊使得轉動不順，若太小則產生縫隙容易漏氣。
 
 <figure class="half">
-    <img src="https://1.bp.blogspot.com/-wIxVFj_pid8/Wa-yN4Qxq8I/AAAAAAAAERM/QSG1YkGarrotYjRJfsufvblggFPL-AuTgCKgBGAs/s320/P_20170901_135806.jpg" height="25%" width="25%">
-    <img src="https://1.bp.blogspot.com/-NrADk7quNIY/Wa-yN96AobI/AAAAAAAAERM/IjRPf2E3FJ4r23vZJDgHzwJdicdRMRQbwCKgBGAs/s320/P_20170901_094317.jpg" height="25%" width="25%">
+    <img src="https://2.bp.blogspot.com/-veHUALK24Do/Wa-3xbQ2kPI/AAAAAAAAESk/mBlkcJtRMek4jSht7xpsx1psd7jOm6JDgCKgBGAs/s1600/P_20170901_135806.jpg" height="25%" width="25%">
+    <img src="https://1.bp.blogspot.com/-ctmG4iAeY6A/Wa-3xUsI0eI/AAAAAAAAESk/RrYn81hZ2rgZw0Z5WZM0XFkVJAWdHHh_gCKgBGAs/s1600/P_20170901_094317.jpg" height="25%" width="25%">
 </figure>
 <figure class="half">
-    <img src="https://1.bp.blogspot.com/-UdGogOb7V60/Wa-yN7wyCHI/AAAAAAAAERM/zsR5UpnGPOIwXcOyte_V-F7gMm-tbLpOwCKgBGAs/s320/P_20170829_133429.jpg" height="25%" width="25%">
-    <img src="https://1.bp.blogspot.com/-6Cgi_rcPQjQ/Wa-yN7Ei9lI/AAAAAAAAERM/3h3xzllWzuwf8_qh7fUcsEqsY4Rktuz6QCKgBGAs/s320/P_20170829_135442.jpg" height="25%" width="25%">
+    <img src="https://1.bp.blogspot.com/-cv7xgIigWPk/Wa-3xRM3aXI/AAAAAAAAESk/ughN6Pa1RFs0iWpNGE3ePf-7GE7y2RS5wCKgBGAs/s1600/P_20170829_133429.jpg" height="25%" width="25%">
+    <img src="https://4.bp.blogspot.com/-aqurQdvxnXc/Wa-3xa3GO7I/AAAAAAAAESk/cKx73YE_oTEoVeikF9cT1haY8zb4TBPhQCKgBGAs/s1600/P_20170829_135442.jpg" height="25%" width="25%">
 </figure>
 <figure class="half">
-    <img src="https://3.bp.blogspot.com/-EFakMA8hxPU/Wa-yN-sDm1I/AAAAAAAAERM/xw2RJtS4D4wBK9QWEw050CA5GLEK4vfZACKgBGAs/s320/P_20170829_135509.jpg" height="25%" width="25%">
-    <img src="https://4.bp.blogspot.com/-T3G-Z-ubLX4/Wa-yN2jZ5kI/AAAAAAAAERM/ME5-ol8iUVs85RFvEa-OO1ehgPus4WCPQCKgBGAs/s320/P_20170901_093155.jpg" height="25%" width="25%">
+    <img src="https://3.bp.blogspot.com/-xMnjFdiBVms/Wa-3xbM8NSI/AAAAAAAAESk/K5d3VWN5q0oAwdUhhvNLt4ZwAQEJ1tNpgCKgBGAs/s1600/P_20170829_135509.jpg" height="25%" width="25%">
+    <img src="https://3.bp.blogspot.com/-0N4dEWc-LA8/Wa-3xYjqxKI/AAAAAAAAESk/63RIEq1njWsh09gkIxVWqg6xeOEnBAT6gCKgBGAs/s1600/P_20170901_093155.jpg" height="25%" width="25%">
 </figure>
 
 我們也很幸運地能夠深入研發實驗室，見識到瑞智對於壓縮機品質的用心與細心，從噪音測試、震動測試、卡路里計量、焓差測試、產品壽命測試，
@@ -110,8 +110,8 @@ tags: [travels]
 為了更加符合客戶的需求，特別建立室內、室外溫度與濕度的場景模擬實驗室，真的讓我體會到瑞智對於品質的堅持！
 
 <figure class="half">
-    <img src="https://1.bp.blogspot.com/-E_ZpZC9Gx-A/Wa-ymTWM3qI/AAAAAAAAERY/Ux7QGPG26N8ezg0YHDszbeN0CU3DJmAewCKgBGAs/s320/P_20170829_080944.jpg" height="25%" width="25%">
-    <img src="https://2.bp.blogspot.com/-d02FhhOj1qE/Wa-ymZ0_XqI/AAAAAAAAERY/SxpTYrM5wlogMCYDDzfb269ndMhor12-QCKgBGAs/s320/P_20170829_082828.jpg" height="25%" width="25%">
+    <img src="https://4.bp.blogspot.com/-IkZDiiu6jy8/Wa-4IB2EkCI/AAAAAAAAESo/Usj0_cFn_BMDXhXuNF0JLjIz4QnXxnX4wCKgBGAs/s1600/P_20170829_080944.jpg" height="25%" width="25%">
+    <img src="https://4.bp.blogspot.com/-kBBC7ewygLk/Wa-4IHfew_I/AAAAAAAAESo/cpSPWe0RGsYIauxZO9qKQXH-ca_OD_7dwCKgBGAs/s1600/P_20170829_082828.jpg" height="25%" width="25%">
 </figure>
 
 瑞智更積極地投入自動化機器人，取代人力進行加工、組裝、搬運，
@@ -132,5 +132,5 @@ tags: [travels]
 中國硬實力驚人，台灣除了盡力追趕之外，軟實力更要不落人後，台灣雖然不是No.1，但我們要努力讓它成為No.1！
 
 <figure>
-    <img src="https://4.bp.blogspot.com/-Nw7plPu6_mc/Wa-yw1Ip0uI/AAAAAAAAERc/4TcVLUIxE2EJaPYi3SEeaPsVPWd2mBobwCKgBGAs/s320/DSC_0647.JPG" height="25%" width="25%">
+    <img src="https://3.bp.blogspot.com/-HKRsVH43jWQ/Wa-4SfsYViI/AAAAAAAAESs/LdAH7G8s2Z0Uuj8898YwhXvLy2p50hocQCKgBGAs/s1600/DSC_0647.JPG" height="25%" width="25%">
 </figure>
