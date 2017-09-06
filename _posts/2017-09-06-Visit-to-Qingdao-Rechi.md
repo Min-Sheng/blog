@@ -59,10 +59,13 @@ tags: [travels]
     <img src="https://1.bp.blogspot.com/-nH9g7-QqN1c/Wa-2W1UVzvI/AAAAAAAAESM/vzVIoN9xoI0kudUJy6jQ2ExqvCyoFjSXQCKgBGAs/s1600/fu%2B%2B%252827%2529.jpg" height="25%" width="25%">
     <img src="https://2.bp.blogspot.com/-VVhlSoK1Yv0/Wa-2W410RgI/AAAAAAAAESM/tO30NQ6D_9kGlih0Rz87yixQdPQXlhOIACKgBGAs/s1600/fu%2B%2B%252828%2529.jpg" height="25%" width="25%">
 </figure>
-<figure class="third">
+<figure class="half">
     <img src="https://1.bp.blogspot.com/-mYrfgnrP9c4/Wa-2zuZkWSI/AAAAAAAAESY/gDR7Dg2-duMCVe3TihyJxU7mq6_Nrr-ZwCKgBGAs/s1600/DSC_0591.JPG" height="25%" width="25%">
     <img src="https://1.bp.blogspot.com/--EDz7sfBg0g/Wa-2zsta8YI/AAAAAAAAESY/tw6QIsG1auQDqscu5NZ2wNOSnyQ_bWMAwCKgBGAs/s1600/DSC_0621.JPG" height="25%" width="25%">
+</figure>
+<figure class="half">
     <img src="https://2.bp.blogspot.com/-daaKHd4HyPQ/Wa-2zp5OrqI/AAAAAAAAESY/xZI9NFouAZUHler0c1ctixYmb0S78SJGgCKgBGAs/s1600/mmexport1504448472698.jpg" height="25%" width="25%">
+    <img src="https://1.bp.blogspot.com/-ffq8oyMMUUc/Wa-4s2FfQXI/AAAAAAAAESw/CfPT_BVckxoCq0nMiP1EwIHCngwpbX4fACKgBGAs/s1600/mmexport1504448503406.jpg" height="25%" width="25%">
 </figure>
 <figure class="half">
     <img src="https://3.bp.blogspot.com/-_ZESc9eQCuM/Wa-3LaJ73eI/AAAAAAAAESc/A6w_TM4a6hYQ1HGkOsnbzCQVR3YMXqYxQCKgBGAs/s1600/DSC_0449.JPG" height="25%" width="25%">
