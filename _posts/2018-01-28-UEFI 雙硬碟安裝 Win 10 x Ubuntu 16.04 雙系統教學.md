@@ -113,20 +113,20 @@ e. 等待綠色進度條跑完，製作完成後再關閉。
 
 Windows　這套作業系統將電腦硬體時間當作本地時間（local time），所以在 Windows 中顯示的時間跟 BIOS 中顯示的時間是一樣的。
 
-Linux（Unix-like 的作業系統：如 Linux 和 Mac ）則把電腦硬體時間當作 UTC（Universal Time Coordinated，世界協調時間）， 在Linux　系統啟動後在該時間的基礎上，再加上額外設置的時區數（台灣的時區為 UTC+8 ），因此，Linux 系統中顯示的時間會比 Windows 系統中顯示的時間快8個小時。
+Linux（Unix-like 的作業系統：如 Linux 和 Mac ）則把電腦硬體時間當作 UTC（Universal Time Coordinated，世界協調時間）， 在Linux　系統啟動後在該時間的基礎上，再加上額外設置的時區數（台灣的時區為 UTC+8 ），因此，Linux 系統中顯示的時間會比 Windows 系統中顯示的時間快 8 個小時。
 
-而你在 Linux 系統中，把系統現實的時間設置正確後，實際上電腦硬體時間就是在這個時間上減去8小時，所以切換成 Windows 系統後，會發現時間慢了8小時。
+而你在 Linux 系統中，把系統現實的時間設置正確後，實際上電腦硬體時間就是在這個時間上減去 8 小時，所以切換成 Windows 系統後，會發現時間慢了 8 小時。
 
-所以我們只需將 Ubuntu 的UTC關閉即可，根據不同的 Ubuntu 版本，這個問題有不同的解法：
+所以我們只需將 Ubuntu 的 UTC 關閉即可，根據不同的 Ubuntu 版本，這個問題有不同的解法：
 
-1. 在 Ubuntu 16.04 版本以前，關閉UTC的方法是在終端機輸入：
+1. 在 Ubuntu 16.04 版本以前，關閉 UTC 的方法是在終端機輸入：
 
 <pre><code>sudo /etc/default/rcS
 </code></pre>
 
 找到並將 UTC=yes 改成 UTC=no ，並重新開機即可。
 
-2. 在Ubuntu 16.04使用systemd啟動之後，時間改成了由timedatectl來管理，關閉UTC的方法則是在終端機輸入：
+2. 在 Ubuntu 16.04 使用 systemd 啟動之後，時間改成了由 timedatectl 來管理，關閉 UTC 的方法則是在終端機輸入：
 
 <pre><code>sudo timedatectl set-local-rtc 1 --adjust-system-clock
 </code></pre>
@@ -135,7 +135,7 @@ Linux（Unix-like 的作業系統：如 Linux 和 Mac ）則把電腦硬體時�
 
 **參考資料：**
 
-1. USB開機碟製作： <http://blog.xuite.net/yh96301/blog/450717778>
+1. USB 開機碟製作： <http://blog.xuite.net/yh96301/blog/450717778>
 
 2. 雙系統安裝： <http://www.cnblogs.com/willnote/p/6725594.html>
 
