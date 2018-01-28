@@ -135,9 +135,9 @@ Linux（Unix-like 的作業系統：如 Linux 和 Mac ）則把電腦硬體時�
 
 **參考資料：**
 
-1. USB開機碟製作：<http://blog.xuite.net/yh96301/blog/450717778>
+1. USB開機碟製作： <http://blog.xuite.net/yh96301/blog/450717778>
 
-2. 雙系統安裝：　<http://www.cnblogs.com/willnote/p/6725594.html>
+2. 雙系統安裝： <http://www.cnblogs.com/willnote/p/6725594.html>
 
-3. Windows 和 Linux 的時差問題：　<https://www.zhihu.com/question/46525639>
+3. Windows 和 Linux 的時差問題： <https://www.zhihu.com/question/46525639>
 
