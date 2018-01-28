@@ -2,8 +2,8 @@
 title: UEFI 雙硬碟安裝 Win 10 x Ubuntu 16.04 雙系統教學
 date: 2018-1-28 13:21:00
 header:
-  image: 
-  teaser: 
+  image: https://3.bp.blogspot.com/-PunkM3-PRDQ/Wm3nG3rKz8I/AAAAAAAAG4U/7tEAtApKwYwX4ex-7vf5nWeYjaOYIddcQCKgBGAs/s1600/2018-01-27_235109.png
+  teaser: https://3.bp.blogspot.com/-zi4JvLxaDZU/Wm3nG6eiNEI/AAAAAAAAG4U/r4QJFQ8nMJwlArPQl34vhzZJAjxd1dlnQCKgBGAs/s1600/ubuntu-16.04-xenial-xerus.png
 comments: true
 keywords: 
   - 'teaching'
@@ -30,13 +30,25 @@ tags: [teaching]
 
 按 Win + R 鍵以開啟 “ 執行 ” ，輸入 msinfo32 並 ENTER ，查看系統資訊。在 BIOS 模式中如果顯示 “ 傳統 ” ，表示系統啟動方式為 Legacy BIOS ；如果顯示 UEFI ，則為 UEFI 。
 
+<figure>
+    <img src="https://3.bp.blogspot.com/-J3WmMx9HUo0/Wm3ndzGSmnI/AAAAAAAAG4c/C2gUY0pxahYUjwguKzdXrv8Iq20z8c1sgCKgBGAs/s1600/2018-01-27_230011.png" height="25%" width="25%">
+</figure>
+
 ## 3. 查看 HDD 的磁碟分區格式，必須為 GPT ：
 
 在 “ 開始功能表 ” （螢幕左下方的 windows 按鈕）點擊滑鼠右鍵，選擇 “ 磁碟管理 ” 開啟磁碟管理工具，於 HDD 的磁碟代號上（我的是磁碟1）點擊滑鼠右鍵，選單中若有灰色的 “ 轉換成MBR磁碟 ” 則表示你的磁碟目前是 GPT 格式。
 
+<figure>
+    <img src="https://4.bp.blogspot.com/-yPk3NmsvZPQ/Wm3nmSwcNGI/AAAAAAAAG4g/40md4qeSUR0uFk8c41aQztmPYYcWbOldwCKgBGAs/s1600/Sequence%2B01.00_00_01_17.Still001.png" height="25%" width="25%">
+</figure>
+
 ## 4. 在 HDD 的磁區分割出 64 GB 的空間：（在附圖中我已經分出來了，沒意外的話你的 HDD 應該是完整的一個磁區）
 
 在 HDD 的磁區點擊滑鼠右鍵，選擇壓縮磁區，在 “ 輸入要壓縮的空間大小 ” 填入 65536 (MB)，並靜待電腦執行壓縮，壓縮完成後會看到空出來的 64 GB。
+
+<figure>
+    <img src="https://3.bp.blogspot.com/-3GQ8mYeLSUY/Wm3nuyF3f0I/AAAAAAAAG4k/8l0CxD7DdHQ8tzEgbVN9Nn6t4JyN3txTQCKgBGAs/s1600/2018-01-27_232556.png" height="25%" width="25%">
+</figure>
 
 ## 5. 關閉 Windows 的快速啟動：
 
@@ -53,8 +65,16 @@ tags: [teaching]
 (1) 準備一個「空的」 USB 隨身碟。
     
 (2) 首先連到 [Ubuntu 的官方網站]( https://www.ubuntu-tw.org/modules/tinyd0/)，可依自己需要選擇適合的版本，在此我選擇發行板為 “ Ubuntu桌面版本 ” ，版本為 “ Ubuntu 16.04 LTS ” （最新長期支援（穩定）版），電腦架構為 “ 64 位元版本 ” ，並點選 “ 開始下載 ” 。
-    
+
+<figure>
+    <img src="https://4.bp.blogspot.com/-XN3FzHuzjmc/Wm3oCYaTF6I/AAAAAAAAG4s/Tx9uRtmDQrMZWsbTKtpO77NPgy-62zRWgCKgBGAs/s1600/2018-01-28_125420.png" height="25%" width="25%">
+</figure>
+
 (3) 連到 [Rufus 的官方網站]( https://rufus.akeo.ie/?locale=zh_TW)，下向捲動找到下載的 “ Rufus 2.18 (945 KB) ” 或 “ Rufus 2.18 可攜版 (945 KB) ” ，點選下載。
+
+<figure>
+    <img src="https://2.bp.blogspot.com/-kgDHMJTXX7o/Wm3n6zDWZII/AAAAAAAAG4o/D7U3ER6xbMAv0og1lOef6phumXX8LTItACKgBGAs/s1600/2018-01-28_125949.png" height="25%" width="25%">
+</figure>
     
 (4) 下載完成後，將你的 USB 隨身碟插入電腦的 USB 插槽，並對著下載的檔案雙擊滑鼠左鍵，執行 Rufus 。
     
@@ -106,6 +126,10 @@ e. 等待綠色進度條跑完，製作完成後再關閉。
 接下來按下立即安裝，一路安裝到完成。
 
 ## 4. 進入 BIOS 調整開機順序為新建立的 windows Boot Manager ，就大功告成啦（撒花～～～
+
+<figure>
+    <img src="https://2.bp.blogspot.com/-chobEMYdCIM/Wm3oNrRo8KI/AAAAAAAAG4w/7bfyCMiB89wUBRxvkKJi2YPQZE42dTD4gCKgBGAs/s1600/2018-01-27_235108.png" height="25%" width="25%">
+</figure>
 
 ※	最後可以把先前關閉的 BIOS 的 Security Boot 再次設定開啟。
 
