@@ -124,7 +124,7 @@ Linux（Unix-like 的作業系統：如 Linux 和 Mac ）則把電腦硬體時�
 (1) 在 Ubuntu 16.04 版本以前，關閉 UTC 的方法是在終端機輸入：
 
 ```bash
-$ sudo /etc/default/rcS
+sudo /etc/default/rcS
 ```
 
 找到並將 UTC=yes 改成 UTC=no ，並重新開機即可。
@@ -132,7 +132,7 @@ $ sudo /etc/default/rcS
 (2) 在 Ubuntu 16.04 使用 systemd 啟動之後，時間改成了由 timedatectl 來管理，關閉 UTC 的方法則是在終端機輸入：
 
 ```bash
-$ sudo sudo timedatectl set-local-rtc 1 --adjust-system-clock
+sudo timedatectl set-local-rtc 1 --adjust-system-clock
 ```
 
 並重新開機即可。
