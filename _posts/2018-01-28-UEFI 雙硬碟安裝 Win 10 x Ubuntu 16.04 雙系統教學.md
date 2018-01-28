@@ -109,7 +109,7 @@ e. 等待綠色進度條跑完，製作完成後再關閉。
 
 ※	最後可以把先前關閉的 BIOS 的 Security Boot 再次設定開啟。
 
-## Windows 和 Linux 的時差問題 ##
+## 5. Windows 和 Linux 的時差問題 ##
 
 後來我發現每次從 Ubuntu 切換回 Win 10 電腦中顯示的時間都會快8小時，原因是兩套作業系統使用不同的時間標準。
 
@@ -121,25 +121,25 @@ Linux（Unix-like 的作業系統：如 Linux 和 Mac ）則把電腦硬體時�
 
 所以我們只需將 Ubuntu 的 UTC 關閉即可，根據不同的 Ubuntu 版本，這個問題有不同的解法：
 
-1. 在 Ubuntu 16.04 版本以前，關閉 UTC 的方法是在終端機輸入：
+(1) 在 Ubuntu 16.04 版本以前，關閉 UTC 的方法是在終端機輸入：
 
 <pre><code>sudo /etc/default/rcS
 </code></pre>
 
 找到並將 UTC=yes 改成 UTC=no ，並重新開機即可。
 
-2. 在 Ubuntu 16.04 使用 systemd 啟動之後，時間改成了由 timedatectl 來管理，關閉 UTC 的方法則是在終端機輸入：
+(2) 在 Ubuntu 16.04 使用 systemd 啟動之後，時間改成了由 timedatectl 來管理，關閉 UTC 的方法則是在終端機輸入：
 
 <pre><code>sudo timedatectl set-local-rtc 1 --adjust-system-clock
 </code></pre>
 
 並重新開機即可。
 
-**參考資料：**
+**6. 參考資料：**
 
-1. USB 開機碟製作： <http://blog.xuite.net/yh96301/blog/450717778>
+(1)  USB 開機碟製作： <http://blog.xuite.net/yh96301/blog/450717778>
 
-2. 雙系統安裝： <http://www.cnblogs.com/willnote/p/6725594.html>
+(2)  雙系統安裝： <http://www.cnblogs.com/willnote/p/6725594.html>
 
-3. Windows 和 Linux 的時差問題： <https://www.zhihu.com/question/46525639>
+(3)  Windows 和 Linux 的時差問題： <https://www.zhihu.com/question/46525639>
 
