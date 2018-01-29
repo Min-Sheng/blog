@@ -127,7 +127,7 @@ e. 等待綠色進度條跑完，製作完成後再關閉。
 
 接下來按下立即安裝，一路安裝到完成。
 
-## 調整開機順序
+# 調整開機順序
 
 進入 BIOS 調整開機順序為新建立的 windows Boot Manager ，就大功告成啦（撒花～～～
 
@@ -137,7 +137,7 @@ e. 等待綠色進度條跑完，製作完成後再關閉。
 
 ※	最後可以把先前關閉的 BIOS 的 Security Boot 再次設定開啟。
 
-## Windows 和 Linux 的時差問題
+# Windows 和 Linux 的時差問題
 
 後來我發現每次從 Ubuntu 切換回 Win 10 電腦中顯示的時間都會快8小時，原因是兩套作業系統使用不同的時間標準。
 
@@ -165,7 +165,7 @@ sudo timedatectl set-local-rtc 1 --adjust-system-clock
 
 並重新開機即可。
 
-## 參考資料
+# 參考資料
 
 (1)  USB 開機碟製作： <http://blog.xuite.net/yh96301/blog/450717778>
 
