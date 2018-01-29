@@ -10,7 +10,11 @@
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
 @include breakpoint-set("to ems", true);
-@import "minimal-mistakes/vendor/font-awesome/font-awesome";
+//@import "minimal-mistakes/vendor/font-awesome/font-awesome";
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+// Our variables
+$base-font-family: 'Space Mono', monospace,"Helvetica Neue", Helvetica, Arial, 'Noto Sans TC';
+$head-font-family: 'Work Sans',"Helvetica Neue", Helvetica, Arial, sans-serif, 'Noto Sans TC';
 @import "minimal-mistakes/vendor/magnific-popup/magnific-popup"; // Magnific Popup
 @import "minimal-mistakes/vendor/susy/susy";
 @import "minimal-mistakes/mixins";
