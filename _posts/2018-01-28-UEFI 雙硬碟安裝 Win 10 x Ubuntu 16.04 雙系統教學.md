@@ -1,6 +1,7 @@
 ---
 title: UEFI 雙硬碟安裝 Win 10 x Ubuntu 16.04 雙系統教學
 date: 2018-1-28 13:21:00
+excerpt: 終於灌好 Windows 和 Linux 的雙系統啦，高興之餘來分享經驗吧！
 header:
   image: https://3.bp.blogspot.com/-PunkM3-PRDQ/Wm3nG3rKz8I/AAAAAAAAG4U/7tEAtApKwYwX4ex-7vf5nWeYjaOYIddcQCKgBGAs/s1600/2018-01-27_235109.png
   teaser: https://3.bp.blogspot.com/-zi4JvLxaDZU/Wm3nG6eiNEI/AAAAAAAAG4U/r4QJFQ8nMJwlArPQl34vhzZJAjxd1dlnQCKgBGAs/s1600/ubuntu-16.04-xenial-xerus.png
@@ -12,11 +13,11 @@ category: teaching
 tags: [teaching]
 ---
 
+{% include toc title = "目錄" %}
+
 > 終於灌好 Windows 和 Linux 的雙系統啦，高興之餘來分享經驗吧！
 
 先前我也曾經嘗試要灌 Windows 和 Linux 的雙系統，想說網路上的教學一堆，應該很容易，結果沒想到到處都是坑，差點把電腦搞成磚，結果是我自己沒靜下心來查看自己的電腦系統與那些教學的差異。這次多多查詢相關知識並仔細來做，發現其實沒啥阻礙且很快就能完工。有了 Linux ，往後在架設伺服器或者使用Python或機器學習相關套件將會如虎添翼。
-
-{% include toc title = "目錄" %}
 
 # 環境 
 
