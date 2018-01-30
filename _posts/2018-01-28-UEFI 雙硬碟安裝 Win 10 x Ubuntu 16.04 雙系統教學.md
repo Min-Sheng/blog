@@ -144,7 +144,7 @@ e. 等待綠色進度條跑完，製作完成後再關閉。
 
 Windows　這套作業系統將電腦硬體時間當作本地時間（local time），所以在 Windows 中顯示的時間跟 BIOS 中顯示的時間是一樣的。
 
-Linux（Unix-like 的作業系統：如 Linux 和 Mac ）則把電腦硬體時間當作 UTC（Universal Time Coordinated，世界協調時間）， 在Linux　系統啟動後在該時間的基礎上，再加上額外設置的時區數（台灣的時區為 UTC+8 ），因此，Linux 系統中顯示的時間會比 Windows 系統中顯示的時間快 8 個小時。
+Linux（Unix-liked OS：如 Linux 和 Mac ）則把電腦硬體時間當作 UTC（Universal Time Coordinated，世界協調時間）， 在Linux　系統啟動後在該時間的基礎上，再加上額外設置的時區數（台灣的時區為 UTC+8 ），因此，Linux 系統中顯示的時間會比 Windows 系統中顯示的時間快 8 個小時。
 
 而你在 Linux 系統中，把系統現實的時間設置正確後，實際上電腦硬體時間就是在這個時間上減去 8 小時，所以切換成 Windows 系統後，會發現時間慢了 8 小時。
 
