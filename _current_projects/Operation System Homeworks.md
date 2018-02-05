@@ -14,7 +14,7 @@ header:
 
 [hw1_machine_monitor](https://github.com/Min-Sheng/hw1_machine_monitor)
 
-<iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/Min-Sheng/hw1_machine_monitor/master/OS-2017_HW1.pdf&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:850px; height:650px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/Min-Sheng/hw1_machine_monitor/master/OS-2017_HW1.pdf" style="width:850px; height:650px;" frameborder="0"></iframe>
   <br />
 
 # OS homework 2
