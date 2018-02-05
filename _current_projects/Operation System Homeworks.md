@@ -22,7 +22,7 @@ header:
 
 # OS homework 3
 
-hw3_scheduling_simulation(https://github.com/Min-Sheng/hw3_scheduling_simulation)
+[hw3_scheduling_simulation](https://github.com/Min-Sheng/hw3_scheduling_simulation)
 
 <iframe src="https://docs.google.com/viewer?srcid=12pvxEBoWIsYkIO9Fx7-kHclUWLVnVmOK&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:500px; height:100px;" frameborder="0"></iframe>
 
