@@ -14,24 +14,25 @@ header:
 
 [hw1_machine_monitor](https://github.com/Min-Sheng/hw1_machine_monitor)
 
-<iframe src="https://docs.google.com/viewer?srcid=1fyOr3IQfBsny2BJ1gXoEK96aDsCpGoT1&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:850px; height:650px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/Min-Sheng/hw1_machine_monitor/master/OS-2017_HW1.pdf&embedded=true" style="width:80%; height:80%;" frameborder="0"></iframe>
   <br />
 
 # OS homework 2
 
 [hw2_mailbox](https://github.com/Min-Sheng/hw2_mailbox)
 
-<iframe src="https://docs.google.com/viewer?srcid=1DeaPxX8tgWwhhXT5b8GoGesRijTmjZmf&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:850px; height:650px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/Min-Sheng/hw2_mailbox/master/OS-2017_HW2.pdf&embedded=true" style="width:80%; height:80%;" frameborder="0"></iframe>
   <br />
 
 # OS homework 3
 
 [hw3_scheduling_simulation](https://github.com/Min-Sheng/hw3_scheduling_simulation)
 
-<iframe src="https://docs.google.com/viewer?srcid=12pvxEBoWIsYkIO9Fx7-kHclUWLVnVmOK&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:850px; height:650px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/Min-Sheng/hw3_scheduling_simulation/master/OS-2017_HW3.pdf&embedded=true" style="width80%; height:80%;" frameborder="0"></iframe>
 
 # OS homework 4
 
 [hw4_memory_allocator](https://github.com/Min-Sheng/hw4_memory_allocator)
 
-<iframe src="https://docs.google.com/viewer?srcid=1zV1lB-9DvVbI5MzsyWF5KxS8-js9AkV3&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:850px; height:650px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/Min-Sheng/hw4_memory_allocator/master/OS-2017_HW4.pdf&embedded=true" style="width:80%; height:80%;" frameborder="0"></iframe>
+
