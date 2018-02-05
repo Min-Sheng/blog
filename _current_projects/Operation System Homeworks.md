@@ -7,8 +7,7 @@ header:
 ---
 
 {% include toc title = "CATALOG" %}
-
-</br>
+  <br />
 
 # OS homework 1
 
