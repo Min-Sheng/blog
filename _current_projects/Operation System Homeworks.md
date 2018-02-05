@@ -3,7 +3,7 @@ title: Operation System Homeworks
 excerpt: These are my OS homeworks in the course of NCKU CSIE.
 header:
   image: 
-  teaser: https://github.com/Min-Sheng/Min-Sheng.github.io/blob/master/_current_projects/images/Operation_System_Homeworks.png
+  teaser: https://raw.githubusercontent.com/Min-Sheng/Min-Sheng.github.io/master/_current_projects/images/Operation_System_Homeworks.png
 ---
 
 {% include toc title = "CATALOG" %}
