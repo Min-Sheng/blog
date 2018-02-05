@@ -2,7 +2,7 @@
 title: Operation System Homeworks
 header:
   image: 
-  teaser: http://www.tunghua.com.tw/manager_admin/upload_file/576/143969444535764.jpg
+  teaser: https://github.com/Min-Sheng/Min-Sheng.github.io/blob/master/_current_projects/images/Operation_System_Homeworks.png
 ---
 
 {% include toc title = "CATALOG" %}
