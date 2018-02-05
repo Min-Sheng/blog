@@ -1,13 +1,13 @@
 ---
 title: Operation System Homeworks
-excerpt: These are my OS homeworks in the Operation System course of NCKU CSIE.
 header:
   image: 
   teaser: http://www.tunghua.com.tw/manager_admin/upload_file/576/143969444535764.jpg
 ---
 
 {% include toc title = "CATALOG" %}
-  <br />
+
+> These are my OS homeworks in the Operation System course of NCKU CSIE.
 
 # OS homework 1
 
