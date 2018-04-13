@@ -21,7 +21,7 @@ header:
 
 並計算這些里的地理中心(centroid)，分析出距離最近的觀測站，並據此分區。
 
-<iframe src="https://60rtgvubb3azlosi4lvvqa-on.drv.tw/Tainan_Villages/Village.html" width="950" height="10000" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://60rtgvubb3azlosi4lvvqa-on.drv.tw/Tainan_Villages/Village.html" width="950" height="15000" frameborder="0" scrolling="no"></iframe>
 
 最後，使用 Mplleaflet 可以將 GeoPandas 處理完的 Dataframe繪製在真實地圖上：
 
