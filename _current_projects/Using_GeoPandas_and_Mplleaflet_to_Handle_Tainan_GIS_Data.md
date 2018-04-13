@@ -9,123 +9,41 @@ header:
 
 首先，先安裝好 pandas、numpy、geopandas、shapely、fiona、matplotlib、mplleaflet 等 Python 套件。
 
-並下載政府資料開放平台的[村里界圖(TWD97經緯度)](https://data.gov.tw/dataset/7438)、[河川流域範圍圖](https://data.gov.tw/dataset/9823)，下載完後新增一個資料夾名為 Village ，解壓縮到此資料夾內。
+其次，下載政府資料開放平台的[村里界圖(TWD97經緯度)](https://data.gov.tw/dataset/7438)、[河川流域範圍圖](https://data.gov.tw/dataset/9823)，下載完後新增一個資料夾名為 Village ，解壓縮到此資料夾內。
 
-先將該 inmport 的套件、繪圖設定等 set up 好：
+我使用 google map 額外整理出台南河川水質觀測站的位置圖，請點選前往地圖匯出成KML檔：
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16LaPUTI3GzyXe9v3f5o02x06y5xBBcP4" width="640" height="480"></iframe>
+
+以下是我用 jupyter notebook 寫的 python 程式碼，
+
+目標是將台南各里範圍與河川流域範圍圖做疊圖分析，歸納出位於各流域的是哪些里，
+
+並計算這些里的地理中心(centroid)，分析出距離最近的觀測站，並據此分區。
+
+<iframe src="https://60rtgvubb3azlosi4lvvqa-on.drv.tw/Tainan_Villages/Village.html" width="1080" height="600" frameborder="0"></iframe>
+
+最後，使用 Mplleaflet 可以將 GeoPandas 處理完的 Dataframe繪製在真實地圖上：
 
 ```python
-import geopandas as gpd
-import pandas as pd
-import shapely
-from shapely.geometry import Point, MultiPoint
-from shapely.ops import nearest_points
-import matplotlib.pyplot as plt
-import numpy as np
-import fiona
-import mplleaflet
-fiona.drvsupport.supported_drivers['kml'] = 'rw' # enable KML support which is disabled by default
-fiona.drvsupport.supported_drivers['KML'] = 'rw' # enable KML support which is disabled by default
-plt.style.use('bmh')
-%pylab inline
-pylab.rcParams['figure.figsize']=(20.0,20.0)
-```
-使用 geopandas 讀取 shp檔：
-```python
-villages_shp=gpd.read_file('./Village/VILLAGE_MOI_1070312.shp')
-villages_shp.head()
-```
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>VILLCODE</th>
-      <th>COUNTYNAME</th>
-      <th>TOWNNAME</th>
-      <th>VILLNAME</th>
-      <th>VILLENG</th>
-      <th>COUNTYID</th>
-      <th>COUNTYCODE</th>
-      <th>TOWNID</th>
-      <th>TOWNCODE</th>
-      <th>NOTE</th>
-      <th>geometry</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>10013030S01</td>
-      <td>屏東縣</td>
-      <td>東港鎮</td>
-      <td>None</td>
-      <td>None</td>
-      <td>T</td>
-      <td>10013</td>
-      <td>T03</td>
-      <td>10013030</td>
-      <td>未編定村里</td>
-      <td>POLYGON ((120.4805919500001 22.42686214900004,...</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>64000130006</td>
-      <td>高雄市</td>
-      <td>林園區</td>
-      <td>中門里</td>
-      <td>Zhongmen Vil.</td>
-      <td>E</td>
-      <td>64000</td>
-      <td>E13</td>
-      <td>64000130</td>
-      <td>None</td>
-      <td>POLYGON ((120.3677206890001 22.49564452100009,...</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>10018010054</td>
-      <td>新竹市</td>
-      <td>東區</td>
-      <td>關新里</td>
-      <td>Guanxin  Vil.</td>
-      <td>O</td>
-      <td>10018</td>
-      <td>O01</td>
-      <td>10018010</td>
-      <td>None</td>
-      <td>POLYGON ((121.0216527890001 24.78572117700008,...</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>64000130008</td>
-      <td>高雄市</td>
-      <td>林園區</td>
-      <td>港埔里</td>
-      <td>Gangpu Vil.</td>
-      <td>E</td>
-      <td>64000</td>
-      <td>E13</td>
-      <td>64000130</td>
-      <td>None</td>
-      <td>POLYGON ((120.3732513370001 22.49123186400004,...</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>64000100010</td>
-      <td>高雄市</td>
-      <td>旗津區</td>
-      <td>上竹里</td>
-      <td>Shangzhu Vil.</td>
-      <td>E</td>
-      <td>64000</td>
-      <td>E10</td>
-      <td>64000100</td>
-      <td>None</td>
-      <td>POLYGON ((120.2897623490001 22.57316931000008,...</td>
-    </tr>
-  </tbody>
-</table>
+ax=tainan_villages_shp.plot(color='white',edgecolor='k')
 
-使用 Mplleaflet 可以將 GeoPandas 處理完的 Dataframe繪製在真實地圖上：
+river1_shp.plot(ax=ax,facecolor=(0.9804, 0, 0.9804, 0.01),edgecolor='red')
+river2_shp.plot(ax=ax,facecolor=(0.5294, 0.8078, 0.9803, 0.01),edgecolor='blue')
+river3_shp.plot(ax=ax,facecolor=(0.5960, 0.9843, 0.5960, 0.01),edgecolor='green')
+river4_shp.plot(ax=ax,facecolor=(0.5450, 0, 0.5450, 0.01),edgecolor='purple')
+river5_shp.plot(ax=ax,facecolor=(1, 1, 0, 0.01),edgecolor='orange')
 
-<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" width="80" height="720" frameborder="0" scrolling="no"></iframe>
+river_villages_shp.plot(ax=ax, column='nearest_observ', cmap='tab10_r',edgecolor='k',categorical=True)
+
+
+
+observ_shp.plot(ax=ax, column='Name', cmap='tab10_r', edgecolor='k', marker='D',markersize=100)
+
+tainan_villages_shp.centroid.plot(ax=ax,color='black',markersize=2)
+
+mplleaflet.show()
+```
+
+<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" width="1080" height="600" frameborder="0" scrolling="no"></iframe>
 
