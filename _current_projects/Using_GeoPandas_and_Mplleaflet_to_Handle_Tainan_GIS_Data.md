@@ -38,5 +38,5 @@ tainan_villages_shp.centroid.plot(ax=ax,color='black',markersize=2)
 mplleaflet.show()
 ```
 
-<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" style="width:100%; height:650px;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" style="width:100%; height:480px;" frameborder="0" scrolling="no"></iframe>
 
