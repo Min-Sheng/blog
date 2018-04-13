@@ -2,7 +2,7 @@
 title: Using GeoPandas and Mplleaflet to Handle Tainan GIS Data
 excerpt: GeoPandas is so funny!
 header:
-  image: 
+  image: https://raw.githubusercontent.com/Min-Sheng/Min-Sheng.github.io/master/_current_projects/images/tainan_villages&river_observs.png
   teaser: https://raw.githubusercontent.com/Min-Sheng/Min-Sheng.github.io/master/_current_projects/images/tainan_villages&river_observs.png
 ---
 > 最近想利用 Pythont 處理地理資訊系統(GIS)做疊圖、最短距離分析，意外發現 GeoPandas 這好用的東西，以下就用台灣的政府開放資料來玩玩看吧！
