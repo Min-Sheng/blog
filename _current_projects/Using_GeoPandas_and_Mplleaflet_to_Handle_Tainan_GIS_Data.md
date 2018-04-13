@@ -9,5 +9,5 @@ header:
 
 使用 Mplleaflet 可以將 GeoPandas 處理完的 Dataframe繪製在真實地圖上
 
-<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" width="1080" height="720" frameborder="0" scrolling="no"></iframe>
 
