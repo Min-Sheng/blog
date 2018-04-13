@@ -9,7 +9,7 @@ header:
 
 首先，先安裝好 pandas、numpy、geopandas、shapely、fiona、matplotlib、mplleaflet 等 Python 套件。
 
-並下載政府資料開放平台的　![村里界圖(TWD97經緯度)]<https://data.gov.tw/dataset/7438>　、　![河川流域範圍圖]<https://data.gov.tw/dataset/9823>　，下載完後新增一個資料夾名為 Village ，解壓縮到此資料夾內。
+並下載政府資料開放平台的[村里界圖(TWD97經緯度)](https://data.gov.tw/dataset/7438)、[河川流域範圍圖](https://data.gov.tw/dataset/9823)，下載完後新增一個資料夾名為 Village ，解壓縮到此資料夾內。
 
 先將該 inmport 的套件、繪圖設定等 set up 好：
 
@@ -34,20 +34,6 @@ pylab.rcParams['figure.figsize']=(20.0,20.0)
 villages_shp=gpd.read_file('./Village/VILLAGE_MOI_1070312.shp')
 villages_shp.head()
 ```
-<div>
-<style scoped="">
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -138,9 +124,6 @@ villages_shp.head()
     </tr>
   </tbody>
 </table>
-</div>
-
-
 
 使用 Mplleaflet 可以將 GeoPandas 處理完的 Dataframe繪製在真實地圖上：
 
