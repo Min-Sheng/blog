@@ -13,7 +13,7 @@ header:
 
 我使用 google map 額外整理出台南河川水質觀測站的位置圖，請點選前往地圖匯出成KML檔：
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16LaPUTI3GzyXe9v3f5o02x06y5xBBcP4" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16LaPUTI3GzyXe9v3f5o02x06y5xBBcP4" width="80%" height="480"></iframe>
 
 以下是我用 jupyter notebook 寫的 python 程式碼，
 
@@ -21,7 +21,7 @@ header:
 
 並計算這些里的地理中心(centroid)，分析出距離最近的觀測站，並據此分區。
 
-<iframe src="https://60rtgvubb3azlosi4lvvqa-on.drv.tw/Tainan_Villages/Village.html" width="800" height="480" frameborder="0" scrolling="auto"></iframe>
+<iframe src="https://60rtgvubb3azlosi4lvvqa-on.drv.tw/Tainan_Villages/Village.html" style="width:100%; height:100%;" frameborder="0"></iframe>
 
 最後，使用 Mplleaflet 可以將 GeoPandas 處理完的 Dataframe繪製在真實地圖上：
 
@@ -38,5 +38,5 @@ tainan_villages_shp.centroid.plot(ax=ax,color='black',markersize=2)
 mplleaflet.show()
 ```
 
-<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" width="800" height="480" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" style="width:100%; height=650" frameborder="0" scrolling="no"></iframe>
 
