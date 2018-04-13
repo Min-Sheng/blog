@@ -21,29 +21,22 @@ header:
 
 並計算這些里的地理中心(centroid)，分析出距離最近的觀測站，並據此分區。
 
-<iframe src="https://60rtgvubb3azlosi4lvvqa-on.drv.tw/Tainan_Villages/Village.html" width="1000" height="5000" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://60rtgvubb3azlosi4lvvqa-on.drv.tw/Tainan_Villages/Village.html" width="950" height="10000" frameborder="0" scrolling="no"></iframe>
 
 最後，使用 Mplleaflet 可以將 GeoPandas 處理完的 Dataframe繪製在真實地圖上：
 
 ```python
 ax=tainan_villages_shp.plot(color='white',edgecolor='k')
-
 river1_shp.plot(ax=ax,facecolor=(0.9804, 0, 0.9804, 0.01),edgecolor='red')
 river2_shp.plot(ax=ax,facecolor=(0.5294, 0.8078, 0.9803, 0.01),edgecolor='blue')
 river3_shp.plot(ax=ax,facecolor=(0.5960, 0.9843, 0.5960, 0.01),edgecolor='green')
 river4_shp.plot(ax=ax,facecolor=(0.5450, 0, 0.5450, 0.01),edgecolor='purple')
 river5_shp.plot(ax=ax,facecolor=(1, 1, 0, 0.01),edgecolor='orange')
-
 river_villages_shp.plot(ax=ax, column='nearest_observ', cmap='tab10_r',edgecolor='k',categorical=True)
-
-
-
 observ_shp.plot(ax=ax, column='Name', cmap='tab10_r', edgecolor='k', marker='D',markersize=100)
-
 tainan_villages_shp.centroid.plot(ax=ax,color='black',markersize=2)
-
 mplleaflet.show()
 ```
 
-<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" width="950" height="600" frameborder="0" scrolling="no"></iframe>
 
