@@ -1,5 +1,5 @@
 ---
-title: Using GeoPandas and Mplleaflet to handle Tainan GIS Data
+title: Using GeoPandas and Mplleaflet to Handle Tainan GIS Data
 excerpt: GeoPandas is so funny!
 header:
   image: 
