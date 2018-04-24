@@ -21,7 +21,7 @@ header:
 
 並計算這些里的地理中心(centroid)，分析出距離最近的觀測站，並據此分區。
 
-<iframe src="http://nbviewer.jupyter.org/github/Min-Sheng/Min-Sheng.github.io/blob/master/_current_projects/source_code/Village.ipynb" width="100%" height="800" scrolling="yes"></iframe>
+<iframe src="http://nbviewer.jupyter.org/github/davidchall/random-direction/blob/master/Generate_Beam_Directions.ipynb" width="100%" height="800" scrolling="yes"></iframe>
 
 最後，使用 Mplleaflet 可以將 GeoPandas 處理完的 Dataframe繪製在真實地圖上：
 
