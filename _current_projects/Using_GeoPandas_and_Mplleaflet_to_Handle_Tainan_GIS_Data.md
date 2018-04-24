@@ -38,6 +38,6 @@ tainan_villages_shp.centroid.plot(ax=ax,color='black',markersize=2)
 mplleaflet.show()
 ```
 
-<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" style="width:100%; height:480px;" frameborder="0" scrolling="no"></iframe>
+
 
 **若此網頁跳出下載「_map.html」，請取消掉，這表示 mplleaflet 的網頁太佔流量而被封鎖，稍候再試試重新整理瀏覽器也許就能看到結果**
