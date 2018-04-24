@@ -7,7 +7,7 @@ header:
 ---
 > 最近想利用 Pythont 處理地理資訊系統(GIS)做疊圖、最短距離分析，意外發現 GeoPandas 這好用的東西，以下就用台灣的政府開放資料來玩玩看吧！
 
-**若此網頁跳出下載「_map.html」，請取消掉，這表示 mplleaflet 的網頁太佔流量而被封鎖，稍候再試試重新整理瀏覽器也許就能看到結果**
+**若此網頁跳出下載「_map.html」，請取消掉，這表示 mplleaflet 的網頁太佔流量而被封鎖**
 
 首先，先安裝好 pandas、numpy、geopandas、shapely、fiona、matplotlib、mplleaflet 等 Python 套件。
 
@@ -41,5 +41,3 @@ mplleaflet.show()
 ```
 
 <iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" style="width:100%; height:480px;" frameborder="0" scrolling="no"></iframe>
-
-
