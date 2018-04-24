@@ -7,6 +7,8 @@ header:
 ---
 > 最近想利用 Pythont 處理地理資訊系統(GIS)做疊圖、最短距離分析，意外發現 GeoPandas 這好用的東西，以下就用台灣的政府開放資料來玩玩看吧！
 
+**若此網頁跳出下載「_map.html」，請取消掉，這表示 mplleaflet 的網頁太佔流量而被封鎖，稍候再試試重新整理瀏覽器也許就能看到結果**
+
 首先，先安裝好 pandas、numpy、geopandas、shapely、fiona、matplotlib、mplleaflet 等 Python 套件。
 
 其次，下載政府資料開放平台的[村里界圖(TWD97經緯度)](https://data.gov.tw/dataset/7438)、[河川流域範圍圖](https://data.gov.tw/dataset/9823)，下載完後新增一個資料夾名為 Village ，解壓縮到此資料夾內。
@@ -15,7 +17,7 @@ header:
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=16LaPUTI3GzyXe9v3f5o02x06y5xBBcP4" style="width:80%; height:480px;;" scrolling="no"></iframe>
 
-以下是我用 jupyter notebook 寫的 python 程式碼，
+以下是我用 jupyter notebook 寫的 [python 程式碼](http://nbviewer.jupyter.org/github/Min-Sheng/Min-Sheng.github.io/blob/master/_current_projects/source_code/Village.ipynb)，
 
 目標是將台南各里範圍與河川流域範圍圖做疊圖分析，歸納出位於各流域的是哪些里，
 
@@ -38,6 +40,6 @@ tainan_villages_shp.centroid.plot(ax=ax,color='black',markersize=2)
 mplleaflet.show()
 ```
 
+<iframe src="https://hmvmgga3dvbaxrnyqrms9g-on.drv.tw/intelcityfile/village/map/_map.html" style="width:100%; height:480px;" frameborder="0" scrolling="no"></iframe>
 
 
-**若此網頁跳出下載「_map.html」，請取消掉，這表示 mplleaflet 的網頁太佔流量而被封鎖，稍候再試試重新整理瀏覽器也許就能看到結果**
