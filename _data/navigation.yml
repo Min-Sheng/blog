@@ -11,7 +11,7 @@ main:
    - title: "About Me"
      url: /about-me/
    - title: "Resume"
-     url: https://www.cakeresume.com/min-sheng-wu
+     url: http://www.cmlab.csie.ntu.edu.tw/~vincentwu929/ #https://www.cakeresume.com/min-sheng-wu
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
