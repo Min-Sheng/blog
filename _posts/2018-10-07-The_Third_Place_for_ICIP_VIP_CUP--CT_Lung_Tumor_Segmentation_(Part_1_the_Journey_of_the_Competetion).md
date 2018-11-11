@@ -22,7 +22,7 @@ The greatest challenges is that the lung tumor may appear in any position in the
 
 Finally, we achieved to build an accurate, robust, and efficient model, and attain more precise segmentation results comparing to the state-of-the-art!
 
-<img src="/assets/images/VIPCUP_NTU_Mira.jpg">
+<img src="/assets/images/VIPCUP_model.png">
 
 I was so exicting to hear that we passed the first competetion stage and selected to attend the finals in Athens though its another challenges for us to give an international presentation. 
 
