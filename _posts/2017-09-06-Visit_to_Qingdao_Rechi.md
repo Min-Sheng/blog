@@ -8,9 +8,10 @@ comments: true
 keywords: 
   - 'travels'
   - 'visit'
+  - 'experience'
   - 'reflection'
-category: travels
-tags: [travels]
+category: experience
+tags: [travels, experience]
 ---
 
 很感謝瑞智精密公司提供這次海外參訪實習的機會，
