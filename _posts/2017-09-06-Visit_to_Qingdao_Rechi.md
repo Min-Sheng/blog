@@ -11,7 +11,7 @@ keywords:
   - 'experience'
   - 'reflection'
 category: experience
-tags: [travels, experience]
+tags: [experience]
 ---
 
 很感謝瑞智精密公司提供這次海外參訪實習的機會，
