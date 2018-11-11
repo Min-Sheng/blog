@@ -30,6 +30,11 @@ It was the first time for me to present in English in such big international com
 
 It's my honor to win the **third place** in the finals. Accomplishing this challenging tumor segmentation task is a milestone. I learned lots of deep learning techniques in the volumetric medical image processing, and tried all my best to overcome each problem. And I will keep doing AI reasearch to make contribution to the health of humankind.
 
+<figure class="half">
+    <img src="/assets/images/VIP_CUP_reporters.jpg" height="25%" width="25%">
+    <img src="/assets/images/VIP_CUP_everyone.jpg" height="25%" width="25%">
+</figure>
+
 This experience also let me know one important thing: “**persist till the end, and it will make you special.**”
 
 There have been several tough times I really want to give up, but I stick to it. 
