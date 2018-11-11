@@ -24,9 +24,9 @@ Finally, we achieved to build an accurate, robust, and efficient model, and atta
 
 <img src="/assets/images/VIPCUP_model.png">
 
-I was so exicting to hear that we passed the first competetion stage and selected to attend the finals in Athens though its another challenges for us to give an international presentation. 
+I was so exicting to hear that we passed the first competetion stage and selected to attend the finals on the IEEE International Conference on Image Processing (ICIP) in Athens!
 
-It was the first time for me to present in English at such big competetion. Even though the tremendous stress suffered me, it make me quickly learn the presentation skills and help me establish the confidence for each presentation in the future.
+It was the first time for me to present in English in such big international competetion. Even though the tremendous stress suffered me, it make me quickly learn the presentation skills and help me establish the confidence for each presentation in the future.
 
 It's my honor to win the third place in the finals. Accomplishing this challenging tumor segmentation task is a milestone. I learned lots of deep learning techniques in the volumetric medical image processing, and tried all my best to overcome each problem. And I will keep doing AI reasearch to make contribution to the health of humankind.
 
