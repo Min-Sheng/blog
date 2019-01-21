@@ -19,7 +19,7 @@ In the summer vacation before I started my first semester of NTU CSIE Master's d
 
 It's a twisting and turning road for us to struggle through. From processing the CT(computed tomography) 3D image, analysing the data, building the baseline Convolutional Neural Network (CNN) models, figuring out some potential challenges to trying every possible methods, everything tests our intelligence and perseverance.
 
-The greatest challenges is that lung tumors may appear in any position in the patient's chest with any kind of size or shape, which we identify as the scale and position invariance problem, and the volume ratio between the tumor volumetric image and the remaining body volumetric image is very small, which means the data imbalance problem is especially severe in the dataset.
+The greatest challenges is that lung tumors may appear in any position in the patient's chest with any kind of sizes or shapes, which we identify as the scale and position variation problems, and the volume ratio between the tumor volumetric image and the remaining body volumetric image is very small, which means the data imbalance problem is especially severe in the dataset.
 
 **Finally, we achieved to build an accurate, robust, and efficient model, and attain more precise segmentation results comparing to the state-of-the-art!**
 
