@@ -6,10 +6,10 @@ header:
   teaser: /assets/images/VIPCUP_model.png
 comments: true
 keywords:
-  - 'competetion'
+  - 'competition'
   - 'experience'
   - 'reflection'
-category: competetion
+category: competition
 tags: [competetion]
 ---
 
