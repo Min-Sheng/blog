@@ -10,7 +10,7 @@ keywords:
   - 'experience'
   - 'reflection'
 category: competition
-tags: [competetion]
+tags: [competition]
 ---
 
 > Persist till the end, and it will make you special!
