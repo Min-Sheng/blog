@@ -10,10 +10,10 @@ main:
      url: /projects/
    - title: "Portfolio"
      url: https://www.instagram.com/vsheng_vision/
-   - title: "About Me"
-     url: /about-me/
    - title: "Resume"
      url: http://www.cmlab.csie.ntu.edu.tw/~vincentwu929/ #https://www.cakeresume.com/min-sheng-wu
+   - title: "About Me"
+     url: /about-me/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
