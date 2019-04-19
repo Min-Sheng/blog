@@ -5,9 +5,11 @@ main:
    - title: "Categories"
      url: /categories/
    - title: "Tags"
-     url: /tags/ 
+     url: /tags/
    - title: "Projects"
-     url: /projects/   
+     url: /projects/
+   - title: "Photography Portfolio"
+     url: https://www.instagram.com/vsheng_vision/
    - title: "About Me"
      url: /about-me/
    - title: "Resume"
